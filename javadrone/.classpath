@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="/javadrone-api"/>
+	<classpathentry kind="lib" path="C:/Users/Runi/.m2/repository/com/codeminders/hidapi/1.1/hidapi-1.1.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.codeminders"/>
+			<attribute name="maven.artifactId" value="hidapi"/>
+			<attribute name="maven.version" value="1.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Runi/.m2/repository/com/twilight/h264-decoder/1.0/h264-decoder-1.0.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.twilight"/>
+			<attribute name="maven.artifactId" value="h264-decoder"/>
+			<attribute name="maven.version" value="1.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
